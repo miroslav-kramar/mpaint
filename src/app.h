@@ -1,7 +1,7 @@
 #ifndef MPAINT_APP
 #define MPAINT_APP
 
-#include "../raylib/include/raylib.h"
+#include "../../raylib/include/raylib.h"
 
 typedef struct {
   RenderTexture2D canvas;
