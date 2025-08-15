@@ -13,3 +13,7 @@ Rn I would rather not explain due to some very bad decisions regarding the relat
 - Make it so the user cannot loose the view of the canvas
 - Further split the functionality in `main.c`
 - Improve functions nomenclature
+
+## Ideas
+
+- Use [raygui](https://github.com/raysan5/raygui) (or parts) instead of implementing fully custom UI?
