@@ -12,3 +12,4 @@ Rn I would rather not explain due to some very bad decisions regarding the relat
 - Implement color picking
 - Make it so the user cannot loose the view of the canvas
 - Further split the functionality in `main.c`
+- Improve functions nomenclature
