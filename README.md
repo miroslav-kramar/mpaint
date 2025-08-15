@@ -7,13 +7,13 @@ Rn I would rather not explain due to some very bad decisions regarding the relat
 
 ## TODO
 
-- Resolve the horrible relative path raylib includes
-- Implement flood-fill algorithm
-- Implement color picking
-- Make it so the user cannot loose the view of the canvas
-- Further split the functionality in `main.c`
-- Improve functions nomenclature
-- Image loading via drag'n'drop
+- Resolve the horrible relative path raylib includes.
+- Implement flood-fill algorithm.
+- Implement color picking.
+- Make it so the user cannot loose the view of the canvas.
+- Further split the functionality in `main.c`.
+- Improve functions nomenclature.
+- Image loading via drag'n'drop.
 - On save update the previously created file instead of creating brand new file.
 - Implement file-naming on save.
 
