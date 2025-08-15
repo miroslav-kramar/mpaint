@@ -13,6 +13,9 @@ Rn I would rather not explain due to some very bad decisions regarding the relat
 - Make it so the user cannot loose the view of the canvas
 - Further split the functionality in `main.c`
 - Improve functions nomenclature
+- Image loading via drag'n'drop
+- On save update the previously created file instead of creating brand new file.
+- Implement file-naming on save.
 
 ## Ideas
 
